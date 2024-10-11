@@ -4,13 +4,13 @@
 
 # UP FAMNIT - Programming III - 2024/2025
 
-Lecturer: dr. Aleksandar Tošić
+Lecturer: doc. dr. Aleksandar Tošić
 
 Practice assistace: Domen Vake
 
 ## Intro 
 
-The repository serves as a personal archive of all code written during the course of Programming III at UP FAMNIT.
+The repository serves as a personal archive of all code written during the course of Programming III at UP FAMNIT. JDK is Java 21.
 
 **!!! Code in this repository is a wild mix of genius and "oopsie doopsies" - it’s shared !!! after !!! submitting my assignments, so expect adventures (and bugs). Use or copy at your risk !!!**
 
