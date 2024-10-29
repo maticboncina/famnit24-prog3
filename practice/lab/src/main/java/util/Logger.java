@@ -49,4 +49,6 @@ public class Logger {
         }
         System.out.println(finalMessage + message);
     }
+
+
 }
